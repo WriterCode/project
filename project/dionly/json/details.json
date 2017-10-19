@@ -1,0 +1,19 @@
+[{
+    "class1": [{
+            "image": "img/FR-5235-1.jpg"
+        },
+        {
+            "image": "img/FR-5235-2.jpg"
+        }
+    ],
+    "class2": {
+        "name": "悄然绽放 - DRW010672D",
+        "marketprice": "1861",
+        "price": "979",
+        "texture": ["18k", "PT900", "PT950"],
+        "marketprice1": "2732",
+        "price1": "1438",
+        "marketprice2": "3050",
+        "price2": "1605"
+    }
+}]

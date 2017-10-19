@@ -1,0 +1,615 @@
+.mainbot .homeline8 {
+    width: 1180px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.mainbot .homeline8 .top {
+    overflow: hidden;
+}
+
+.mainbot .homeline8>.top>.left {
+    float: left;
+    padding-left: 15px;
+    width: 385px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mainbot .homeline8>.top>.right {
+    float: right;
+    overflow: hidden;
+}
+
+.mainbot .homeline8>.top>.right>div {
+    float: left;
+    width: 65px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.mainbot .homeline8>.top>.right>div a {
+    font-size: 12px;
+    font-weight: bold;
+    color: #222;
+}
+
+.mainbot .homeline8 .bottom {
+    height: 225px;
+    overflow: hidden;
+    border-top: 3px solid #6b6b6b;
+    position: relative;
+}
+
+.mainbot .homeline8 .bottom>div {
+    width: 100%;
+    height: 224px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.mainbot .homeline8 .bottom>div>.botTop {
+    float: left;
+    width: 679px;
+    height: 224px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 32px;
+    font-size: 14px;
+    background: url(../img/map.png) no-repeat;
+    border-left: 1px solid #6B6B6B;
+    border-bottom: 1px solid #6B6B6B;
+}
+
+.mainbot .homeline8 .bottom>div>.botBot {
+    float: left;
+    width: 500px;
+    height: 225px;
+    overflow: hidden;
+}
+
+.mainbot .homeline8 .bottom>div>.botBot img {
+    display: block;
+}
+
+.mainbot .homeline8 .bottom .botTop a {
+    display: block;
+    color: #222;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.mainbot .homeline8 .bottom .botTop a:hover {
+    color: #db3962;
+}
+
+.mainbot .homeline8 .bottom .botTop p:nth-child(2) {
+    color: #222;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.mainbot .homeline8 .bottom>div:nth-child(1) {
+    display: block;
+}
+
+.enter1 {
+    display: none;
+}
+
+.mainbot {
+    width: 1180px;
+    margin: 0 auto;
+    background: #fff;
+    height: 290px;
+}
+
+.maindetails {
+    width: 100%;
+    background: #f1f1f1;
+}
+
+.maindetails>p {
+    width: 1180px;
+    margin: 0 auto;
+    color: #222;
+    font-size: 12px;
+    padding: 15px 0;
+    text-indent: 10px;
+}
+
+.maindetails>p>a {
+    color: #222;
+    margin: 0 5px;
+}
+
+.maindetails>p>a:hover {
+    color: #db3962;
+}
+
+.glass {
+    width: 1180px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #d2d2d2;
+}
+
+.maindetails .main {
+    width: 1180px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.maindetails .main .left {
+    float: left;
+    width: 240px;
+}
+
+.maindetails .main .left>div {
+    width: 240px;
+    background: #fff;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+.maindetails .main .left>div p {
+    width: 240px;
+    height: 35px;
+    font-size: 12px;
+    color: #222;
+    line-height: 35px;
+    text-indent: 10px;
+    font-weight: bold;
+    background: url(../img/headbg.jpg);
+}
+
+.maindetails .main .left>div:nth-child(1) p {
+    color: #db3962 !important;
+}
+
+.maindetails .main .left>div img {
+    width: 240px;
+    display: block;
+}
+
+.maindetails .main .left>div a {
+    display: block;
+    font-size: 12px;
+    color: #222;
+    text-align: center;
+}
+
+.maindetails .main .left>div a:hover {
+    color: #db3962;
+}
+
+.maindetails .main .left>div div {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+}
+
+.maindetails .main .right {
+    float: right;
+    width: 910px;
+    border: 1px solid #D2D2D2;
+    background: #FFFFFF;
+    overflow: hidden;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+.maindetailstop {
+    width: 910px;
+    height: 33px;
+    line-height: 30px;
+    background: url(../img/headbg.jpg);
+}
+
+.maindetailstop a {
+    font-size: 12px;
+    color: #222;
+    font-weight: bold;
+    padding: 10px 25px 8px;
+    border-right: 1px solid #d2d2d2;
+}
+
+.maindetailscen img {
+    display: block;
+    width: 910px;
+}
+
+.maindetailsbot>div {
+    width: 712px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.maindetailsbot>div>p:nth-child(1) {
+    width: 712px;
+    height: 30px;
+    text-indent: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #d2d2d2;
+    background: url(../img/logobg.gif) no-repeat;
+}
+
+.maindetailsbot>div>p:nth-child(2) {
+    margin-top: 20px;
+    text-indent: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    color: #222;
+}
+
+.maindetailsbot>div:nth-child(1)>p:nth-child(3) {
+    width: 632px;
+    height: 485px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background: url(../img/gia1.jpg);
+}
+
+.maindetailsbot>div:nth-child(2)>div>div {
+    font-size: 12px;
+    color: #222;
+    margin-top: 20px;
+    line-height: 24px;
+    overflow: hidden;
+}
+
+.maindetailsbot>div:nth-child(2)>div>div>div:nth-child(1) {
+    float: left;
+}
+
+.maindetailsbot>div:nth-child(2)>div>div>div:nth-child(2) {
+    float: right;
+}
+
+.maindetailsbot>div:nth-child(2)>div>div:nth-child(2n-1)>div:nth-child(1) {
+    width: 500px;
+}
+
+.maindetailsbot>div:nth-child(2)>div>div:nth-child(2n)>div:nth-child(2) {
+    width: 500px;
+}
+
+.maindetailsbot>div:nth-child(3) p:nth-child(3) {
+    width: 670px;
+    height: 225px;
+    margin: 0 auto;
+    background: url(../img/cpt7.jpg);
+}
+
+.maindetailsbot>div:nth-child(4) p:nth-child(2) {
+    width: 712px;
+    height: 300px;
+    margin: 40px auto;
+    background: url(../img/cpt8.jpg);
+    overflow: hidden;
+}
+
+.maindetailsbot>div:nth-child(4) p:nth-child(2) span {
+    display: block;
+    font-size: 12px;
+    color: #222;
+    width: 290px;
+    text-indent: 24px;
+    margin: 50px 0 0 390px;
+}
+
+.maindetailsbot>div:nth-child(5) p:nth-child(2) {
+    width: 700px;
+    height: 265px;
+    margin: 40px auto;
+    background: url(../img/cpt9.jpg);
+    overflow: hidden;
+}
+
+.maindetailsbot>div:nth-child(5) p:nth-child(2) span {
+    display: block;
+    font-size: 12px;
+    color: #222;
+    width: 270px;
+    text-indent: 24px;
+    margin: 35px 0 0 48px;
+}
+
+.aftersale {
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.aftersale>div {
+    width: 356px;
+    float: left;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.aftersale>div>div:nth-child(1) {
+    float: left;
+}
+
+.aftersale>div>div:nth-child(2) {
+    float: right;
+    width: 275px;
+    font-size: 12px;
+    color: #222;
+}
+
+.aftersale>div>div:nth-child(2) p:nth-child(1) {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.maintain {
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.maintain div {
+    width: 235px;
+    float: left;
+}
+
+.maintain div p:nth-child(2n-1) {
+    font-size: 12px;
+    font-weight: bold;
+    color: #222;
+    margin: 20px 20px 0;
+    line-height: 24px;
+}
+
+.maintain div p:nth-child(2n) {
+    font-size: 12px;
+    color: #222;
+    margin: 0px 20px;
+}
+
+.glass {
+    position: relative;
+    overflow: hidden;
+}
+
+.glass .bod {
+    width: 100%;
+    border: 1px solid #ffc0c1;
+}
+
+.glassright {
+    width: 600px;
+    float: right;
+    padding: 15px 5px;
+}
+
+.glassleft {
+    float: left;
+    width: 500px;
+    height: 615px;
+    margin-top: 20px;
+    border-right: 1px solid #D2D2D2;
+}
+
+.glassright>p {
+    font-size: 12px;
+    color: #222;
+    margin-top: 25px;
+}
+
+.glassright .lettering {
+    text-indent: 24px;
+}
+
+.glassright .lettering input {
+    width: 80px;
+    height: 17px;
+    outline: 0;
+    margin-right: 10px;
+}
+
+.consult {
+    color: red;
+}
+
+.glassright .beizhu {
+    width: 500px;
+    text-indent: 24px;
+    border-bottom: 1px dashed #d2d2d2;
+    padding-bottom: 30px;
+}
+
+.glassright .info {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.glassbtn1 {
+    width: 227px;
+    height: 40px;
+    float: left;
+    background: url(../img/addtocart_zuan.png)
+}
+
+.glassbtn2 {
+    width: 126px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    background: url(../img/addtofavor.png)
+}
+
+.glasssmall {
+    font-size: 12px;
+    text-indent: 24px;
+    color: #222;
+    margin-top: 30px;
+}
+
+.glasssmall select {
+    width: 60px;
+    height: 22px;
+    outline: 0;
+}
+
+.glassweight {
+    font-size: 12px;
+    color: #222;
+    margin-top: 30px;
+}
+
+.glassweight select {
+    width: 100px;
+    height: 22px;
+    margin-right: 10px;
+    outline: 0;
+}
+
+.glassweight a {
+    color: #a00005;
+}
+
+.glassname span {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.glassmarketprice span {
+    font-size: 14px;
+    color: #888;
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.glassprice span {
+    font-size: 14px;
+    color: #db3962;
+    font-weight: bold;
+}
+
+.glasstexture span:nth-child(1) {
+    padding: 5px 10px;
+    font-size: 12px;
+    color: #fff;
+    background: #db3962;
+}
+
+.glasstexture span:nth-child(2) {
+    padding: 5px 10px;
+    font-size: 12px;
+    color: #222;
+    background: #ccc;
+    margin-left: 10px;
+}
+
+.glasstexture span:nth-child(3) {
+    padding: 5px 10px;
+    font-size: 12px;
+    color: #222;
+    background: #ccc;
+    margin-left: 10px;
+}
+
+.glasstexture span:hover {
+    cursor: pointer;
+}
+
+.glasstop {
+    width: 432px;
+    height: 432px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.glasstop img {
+    width: 432px;
+    height: 432px;
+    display: block;
+}
+
+.clearFix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.glassbottom {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.glassbottom>div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid #d2d2d2;
+    margin-left: 10px;
+    float: left;
+    position: relative;
+}
+
+.glassbottom>div:hover {
+    border: 1px solid red;
+}
+
+.glassbottom img {
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+
+/* .jiant1 {
+    border: 4px solid transparent;
+    border-bottom: 4px solid red;
+    position: absolute;
+    top: 466px;
+    left: 107px;
+    display: none;
+}
+
+.jiant2 {
+    border: 4px solid transparent;
+    border-bottom: 4px solid red;
+    position: absolute;
+    top: 466px;
+    left: 220px;
+    display: none;
+} */
+
+.glasslens {
+    width: 432px;
+    height: 432px;
+    border: 1px solid #d2d2d2;
+    background: #fff;
+    position: absolute;
+    top: 20px;
+    left: 470px;
+    overflow: hidden;
+    display: none;
+}
+
+.glasslens>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.glassleft .glasstop .glassmb {
+    width: 350px;
+    height: 350px;
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid #d2d2d2;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 999;
+    display: none;
+}

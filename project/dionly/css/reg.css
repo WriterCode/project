@@ -1,0 +1,133 @@
+.reg {
+    width: 1583px;
+    height: 606px;
+    background: url(../img/reg.jpg);
+    position: relative;
+}
+
+.reg .footer {
+    position: absolute;
+    top: 515px;
+    left: 1040px;
+    overflow: hidden;
+}
+
+.reg .footer div:nth-child(1) {
+    width: 63px;
+    height: 24px;
+    background: url(../img/Connect_logo_7.png);
+    margin-top: 20px;
+    margin-left: 55px;
+    float: left;
+    cursor: pointer;
+}
+
+.reg .footer div:nth-child(2) {
+    width: 55px;
+    height: 50px;
+    background: url(../img/wb.gif);
+    margin-top: 5px;
+    margin-left: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+.reg .footer div:nth-child(3) {
+    width: 90px;
+    height: 50px;
+    background: url(../img/zfb.gif);
+    margin-top: 5px;
+    margin-left: 25px;
+    float: left;
+    cursor: pointer;
+}
+
+.reg>p {
+    padding-top: 75px;
+    margin-left: 1355px;
+}
+
+.reg p>a {
+    font-size: 14px;
+    color: #db3962;
+}
+
+.reg .center {
+    width: 400px;
+    margin-left: 1035px;
+}
+
+.reg .center input:nth-child(1) {
+    width: 162px;
+    height: 30px;
+    margin-top: 45px;
+    margin-left: 145px;
+    outline: 0;
+    border: none;
+}
+
+.reg .center input:nth-child(2) {
+    width: 88px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 145px;
+    outline: 0;
+    border: none;
+}
+
+.reg .center input:nth-child(3) {
+    width: 78px;
+    height: 30px;
+    margin-top: 24px;
+    margin-left: 145px;
+    outline: 0;
+    border: none;
+}
+
+.reg .center input:nth-child(5) {
+    width: 162px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 145px;
+    outline: 0;
+    border: none;
+}
+
+.reg .center input:nth-child(6) {
+    width: 162px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 145px;
+    outline: 0;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.reg .center span:nth-child(4) {
+    font-size: 14px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.reg .center input:nth-child(8) {
+    vertical-align: top;
+    margin-top: 6px;
+    margin-left: 55px;
+}
+
+.reg .center span:nth-child(9) {
+    font-size: 14px;
+}
+
+.reg .center span:nth-child(9) a {
+    color: #db3962;
+}
+
+.reg .center .regbtn {
+    width: 277px;
+    height: 32px;
+    background: url(../img/loginbutn.png);
+    margin-top: 15px;
+    margin-left: 55px;
+    cursor: pointer;
+}

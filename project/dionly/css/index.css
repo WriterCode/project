@@ -1,0 +1,535 @@
+.swiper-container {
+    width: 100%;
+}
+
+.swiper-container img {
+    width: 100%;
+    display: block;
+}
+
+.main .mainNav {
+    width: 1180px;
+    padding-top: 20px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main .mainNav div:nth-child(1) {
+    float: left;
+    width: 310px;
+    height: 200px;
+    border: 1px solid #ddd;
+    padding: 4px;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .mainNav div:nth-child(2) {
+    float: left;
+    margin-left: 15px;
+    width: 500px;
+    height: 200px;
+    border: 1px solid #ddd;
+    padding: 4px;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .mainNav div:nth-child(3) {
+    float: right;
+    width: 310px;
+    height: 200px;
+    border: 1px solid #ddd;
+    padding: 4px;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .mainNav a {
+    display: block;
+    font-size: 12px;
+    color: #222;
+    text-align: center;
+}
+
+.main .mainNav div:hover a {
+    color: #db3962;
+}
+
+.main .home {
+    width: 1180px;
+    height: 18px;
+    margin: 0 auto;
+}
+
+.main .homeline {
+    width: 1180px;
+    height: 159px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .homeline>div:nth-child(1) {
+    width: 616px;
+    height: 159px;
+    float: left;
+    background-color: #f9f9f9;
+}
+
+.main .homeline>div:nth-child(1) img {
+    margin: 20px 0 0 15px;
+}
+
+.main .homeline .homelineRight {
+    width: 562px;
+    height: 159px;
+    float: left;
+    background: url(../img/bg1.png);
+    position: relative;
+}
+
+.main .homeline .homelineRight div:nth-child(1) {
+    margin: 22px 0 0 75px
+}
+
+.main .homeline .homelineRight div:nth-child(1) input {
+    width: 40px;
+    height: 15px;
+    outline: 0;
+    font-size: 12px;
+    color: #222;
+}
+
+.main .homeline .homelineRight div:nth-child(1) span {
+    font-size: 12px;
+}
+
+.main .homeline .homelineRight div:nth-child(2) {
+    position: absolute;
+    top: 26px;
+    left: 288px;
+}
+
+.main .homeline .homelineRight div:nth-child(2) button {
+    width: 29px;
+    margin: 0 3px;
+    height: 19px;
+    border: none;
+    outline: 0;
+}
+
+.main .homeline .homelineRight div:nth-child(2) button img {
+    display: block;
+}
+
+.main .homeline .homelineRight div:nth-child(3) {
+    position: absolute;
+    top: 72px;
+    left: 68px;
+}
+
+.main .homeline .homelineRight div:nth-child(3) button {
+    width: 33px;
+    margin: 0 3px;
+    height: 19px;
+    border: none;
+    outline: 0;
+}
+
+.main .homeline .homelineRight div:nth-child(3) button img {
+    display: block;
+}
+
+.main .homeline .homelineRight div:nth-child(4) {
+    position: absolute;
+    top: 72px;
+    left: 290px;
+}
+
+.main .homeline .homelineRight div:nth-child(4) button {
+    width: 34px;
+    margin: 0 3px;
+    height: 19px;
+    border: none;
+    outline: 0;
+}
+
+.main .homeline .homelineRight div:nth-child(4) button img {
+    display: block;
+}
+
+.main .homeline .homelineRight>button {
+    width: 86px;
+    height: 32px;
+    position: absolute;
+    top: 110px;
+    left: 380px;
+    border: none;
+    outline: 0;
+    background: url(../img/searchbtn.jpg);
+}
+
+.main .homeline1,
+.homeline3,
+.homeline4,
+.homeline5,
+.homeline6 {
+    margin: 0 auto;
+    width: 1180px;
+    height: 429px;
+    overflow: hidden;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .homeline1>div:nth-child(1),
+.main .homeline4>div:nth-child(1) {
+    float: left;
+    width: 321px;
+    height: 429px;
+    overflow: hidden;
+    position: relative;
+}
+
+.main .homeline1>div:nth-child(2),
+.main .homeline4>div:nth-child(2) {
+    float: left;
+    width: 259px;
+    height: 429px;
+    overflow: hidden;
+}
+
+.main .homeline1>div:nth-child(3),
+.main .homeline4>div:nth-child(3) {
+    float: left;
+    width: 600px;
+    height: 429px;
+    overflow: hidden;
+}
+
+.main .homeline1>div:nth-child(3) div,
+.main .homeline4>div:nth-child(3) div {
+    float: left;
+}
+
+.main .homeline1>div:nth-child(3) div img,
+.main .homeline4>div:nth-child(3) div img {
+    display: block;
+}
+
+.main .homeline1>div:nth-child(1) div,
+.main .homeline4>div:nth-child(1) div {
+    position: absolute;
+    top: 185px;
+    left: 30px;
+}
+
+.main .homeline1>div:nth-child(1) div p a,
+.main .homeline4>div:nth-child(1) div p a {
+    color: #222;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.main .homeline1>div:nth-child(1) div p a:hover,
+.main .homeline4>div:nth-child(1) div p a:hover {
+    color: #DB3861;
+}
+
+.main .homeline1>div:nth-child(1) div p:nth-child(4),
+.main .homeline4>div:nth-child(1) div p:nth-child(5) {
+    margin-top: 50px;
+}
+
+.main .homeline2 {
+    width: 1180px;
+    height: 116px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main .homeline2>div {
+    float: left;
+}
+
+.main .homeline2>div img {
+    display: block;
+}
+
+.main .homeline3>div:nth-child(1),
+.main .homeline5>div:nth-child(1),
+.main .homeline6>div:nth-child(1) {
+    float: left;
+    width: 321px;
+    height: 429px;
+    overflow: hidden;
+    position: relative;
+}
+
+.main .homeline3>div:nth-child(3),
+.main .homeline5>div:nth-child(3),
+.main .homeline6>div:nth-child(3) {
+    float: left;
+    width: 259px;
+    height: 429px;
+    overflow: hidden;
+}
+
+.main .homeline3>div:nth-child(2),
+.main .homeline5>div:nth-child(2),
+.main .homeline6>div:nth-child(2) {
+    float: left;
+    width: 600px;
+    height: 429px;
+    overflow: hidden;
+}
+
+.main .homeline3>div:nth-child(2) div,
+.main .homeline5>div:nth-child(2) div,
+.main .homeline6>div:nth-child(2) div {
+    float: left;
+}
+
+.main .homeline3>div:nth-child(2) div img,
+.main .homeline5>div:nth-child(2) div img,
+.main .homeline6>div:nth-child(2) div img {
+    display: block;
+}
+
+.main .homeline3>div:nth-child(1) div,
+.main .homeline5>div:nth-child(1) div,
+.main .homeline6>div:nth-child(1) div {
+    position: absolute;
+    top: 185px;
+    left: 30px;
+}
+
+.main .homeline3>div:nth-child(1) div p a,
+.main .homeline5>div:nth-child(1) div p a,
+.main .homeline6>div:nth-child(1) div p a {
+    color: #222;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.main .homeline3>div:nth-child(1) div p a:hover,
+.main .homeline5>div:nth-child(1) div p a:hover,
+.main .homeline6>div:nth-child(1) div p a:hover {
+    color: #DB3861;
+}
+
+.main .homeline3>div:nth-child(1) div p:nth-child(3),
+.main .homeline5>div:nth-child(1) div p:nth-child(3),
+.main .homeline6>div:nth-child(1) div p:nth-child(3) {
+    margin-top: 80px;
+}
+
+.xianxia {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.xianxia img {
+    display: block;
+}
+
+.main .homeline7 {
+    width: 1180px;
+    height: 290px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main .homeline7>div:nth-child(4) {
+    float: left;
+    width: 184px;
+    height: 290px;
+    border: none;
+    margin-right: 0px;
+    box-shadow: 0px 1px 3px 0px #ccc;
+}
+
+.main .homeline7>div:nth-child(4) img {
+    display: block;
+}
+
+.main .homeline7>div {
+    float: left;
+    margin-right: 10px;
+    width: 320px;
+    height: 288px;
+    border: 1px solid #E3E3E3;
+}
+
+.main .homeline7>div>a {
+    display: block;
+    width: 320px;
+    height: 33px;
+    line-height: 33px;
+    text-indent: 15px;
+    color: #222;
+    font-size: 12px;
+    font-weight: bold;
+    background: url(../img/headbg.jpg);
+}
+
+.main .homeline7>div>div {
+    padding: 5px;
+}
+
+.main .homeline7>div>div img {
+    display: block;
+}
+
+.main .homeline7 .homeline7_3 a {
+    display: block;
+    height: 27px;
+    line-height: 27px;
+    text-indent: 10px;
+    font-size: 12px;
+    color: #222;
+}
+
+.main .homeline7 a:hover {
+    color: #db3962;
+}
+
+.base {
+    margin: 0 auto;
+    padding: 15px 0;
+    width: 100%;
+    height: 105px;
+    border-top: 1px solid #CCCCCC;
+    color: #999999;
+    background: #F0F0F0;
+}
+
+.base p:nth-child(2) {
+    width: 1180px;
+    margin: 0 auto;
+    text-align: right;
+    font-size: 12px;
+    color: #999;
+}
+
+.base p:nth-child(1) {
+    width: 1180px;
+    margin: 0 auto;
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 50px;
+}
+
+.base p:nth-child(1) span {
+    font-weight: bold;
+}
+
+.base p:nth-child(1) a {
+    color: #999;
+    margin-left: 10px;
+}
+
+.base p:nth-child(1) a:hover {
+    color: #db3962;
+}
+
+.main .homeline8 {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.main .homeline8 .top {
+    overflow: hidden;
+}
+
+.main .homeline8>.top>.left {
+    float: left;
+    padding-left: 15px;
+    width: 385px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main .homeline8>.top>.right {
+    float: right;
+    overflow: hidden;
+}
+
+.main .homeline8>.top>.right>div {
+    float: left;
+    width: 65px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.main .homeline8>.top>.right>div a {
+    font-size: 12px;
+    font-weight: bold;
+    color: #222;
+}
+
+.main .homeline8 .bottom {
+    height: 225px;
+    overflow: hidden;
+    border-top: 3px solid #6b6b6b;
+    position: relative;
+}
+
+.main .homeline8 .bottom>div {
+    width: 100%;
+    height: 224px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main .homeline8 .bottom>div>.botTop {
+    float: left;
+    width: 679px;
+    height: 224px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 32px;
+    font-size: 14px;
+    background: url(../img/map.png) no-repeat;
+    border-left: 1px solid #6B6B6B;
+    border-bottom: 1px solid #6B6B6B;
+}
+
+.main .homeline8 .bottom>div>.botBot {
+    float: left;
+    width: 500px;
+    height: 225px;
+    overflow: hidden;
+}
+
+.main .homeline8 .bottom>div>.botBot img {
+    display: block;
+}
+
+.main .homeline8 .bottom .botTop a {
+    display: block;
+    color: #222;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.main .homeline8 .bottom .botTop a:hover {
+    color: #db3962;
+}
+
+.main .homeline8 .bottom .botTop p:nth-child(2) {
+    color: #222;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.main .homeline8 .bottom>div:nth-child(1) {
+    display: block;
+}
+
+.enter1 {
+    display: none;
+}

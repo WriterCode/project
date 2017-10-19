@@ -1,0 +1,361 @@
+.mainbot .homeline8 {
+    width: 1180px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.mainbot .homeline8 .top {
+    overflow: hidden;
+}
+
+.mainbot .homeline8>.top>.left {
+    float: left;
+    padding-left: 15px;
+    width: 385px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mainbot .homeline8>.top>.right {
+    float: right;
+    overflow: hidden;
+}
+
+.mainbot .homeline8>.top>.right>div {
+    float: left;
+    width: 65px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.mainbot .homeline8>.top>.right>div a {
+    font-size: 12px;
+    font-weight: bold;
+    color: #222;
+}
+
+.mainbot .homeline8 .bottom {
+    height: 225px;
+    overflow: hidden;
+    border-top: 3px solid #6b6b6b;
+    position: relative;
+}
+
+.mainbot .homeline8 .bottom>div {
+    width: 100%;
+    height: 224px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.mainbot .homeline8 .bottom>div>.botTop {
+    float: left;
+    width: 679px;
+    height: 224px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 32px;
+    font-size: 14px;
+    background: url(../img/map.png) no-repeat;
+    border-left: 1px solid #6B6B6B;
+    border-bottom: 1px solid #6B6B6B;
+}
+
+.mainbot .homeline8 .bottom>div>.botBot {
+    float: left;
+    width: 500px;
+    height: 225px;
+    overflow: hidden;
+}
+
+.mainbot .homeline8 .bottom>div>.botBot img {
+    display: block;
+}
+
+.mainbot .homeline8 .bottom .botTop a {
+    display: block;
+    color: #222;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.mainbot .homeline8 .bottom .botTop a:hover {
+    color: #db3962;
+}
+
+.mainbot .homeline8 .bottom .botTop p:nth-child(2) {
+    color: #222;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.mainbot .homeline8 .bottom>div:nth-child(1) {
+    display: block;
+}
+
+.enter1 {
+    display: none;
+}
+
+.productmain {
+    background: #f3f3f3;
+}
+
+.productmain .wrap {
+    width: 1180px;
+    height: 194px;
+    margin: 0 auto;
+    background: url(../img/jietuo.jpg);
+}
+
+.productpath {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.productpath p {
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+.productpath p span {
+    font-size: 12px;
+    font-weight: bold;
+    color: #fa773e;
+}
+
+.productlist {
+    width: 1180px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.productlist .listleft {
+    width: 240px;
+    float: left;
+}
+
+.productlist .listleft .listwrap {
+    width: 240px;
+    border: 1px solid #CECECE;
+    overflow: hidden;
+}
+
+.productlist .listleft .listwrap .listhead {
+    width: 240px;
+    height: 35px;
+    line-height: 35px;
+    background: url(../img/headbg.jpg);
+    text-indent: 10px;
+    overflow: hidden;
+    font-weight: bold;
+    font-size: 12px;
+    color: #222;
+}
+
+.productlist .listleft .listbot>div:nth-child(1) a {
+    display: block;
+    width: 240px;
+    height: 130px;
+    background: url(../img/ycqf.jpg);
+    background-size: 100% 100%;
+    margin-top: 20px;
+}
+
+.productlist .listleft .listbot>div:nth-child(2) a {
+    display: block;
+    width: 240px;
+    height: 110px;
+    background: url(../img/small.jpg);
+    background-size: 100% 100%;
+    margin-top: 10px;
+}
+
+.productlist .listleft .listbot>div:nth-child(3) a {
+    display: block;
+    width: 240px;
+    height: 316px;
+    background: url(../img/small2.jpg);
+    background-size: 100% 100%;
+    margin-top: 10px;
+}
+
+.listsamll {
+    margin: 10px 0;
+}
+
+.listsamll span {
+    padding: 0px 5px;
+    color: #fff;
+    font-size: 12px;
+    background: rgb(196, 195, 195);
+    margin-left: 20px;
+}
+
+.listsamll a {
+    color: #222;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.listsamllclass {
+    width: 150px;
+    margin: 0 auto;
+    border-top: 1px dashed #d1d1d1;
+    border-bottom: 1px dashed #d1d1d1;
+    padding: 5px 0;
+    background: #fafafa;
+    overflow: hidden;
+}
+
+.listsamllclass:nth-child(9) {
+    margin-bottom: 20px;
+}
+
+.listsamllclass a {
+    display: block;
+    float: left;
+    width: 75px;
+    height: 30px;
+    line-height: 30px;
+    color: #222;
+    font-size: 12px;
+}
+
+.listwrap1 a:hover {
+    color: #db3962;
+}
+
+.listhot1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.listhot1 img {
+    width: 200px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.listhot1 a {
+    display: block;
+    font-size: 14px;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+.listhot1 a:hover {
+    color: #db3962;
+}
+
+.listhot1 span:nth-child(3) {
+    color: #222;
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.listhot1 span:nth-child(4) {
+    color: #db3962;
+    font-size: 14px;
+}
+
+.listright {
+    width: 922px;
+    float: right;
+    overflow: hidden;
+    text-align: center;
+}
+
+.listright .uls {
+    overflow: hidden;
+    border-top: 1px solid #CECECE;
+    border-left: 1px solid #CECECE;
+}
+
+.listright .uls li {
+    width: 306px;
+    height: 293px;
+    border-right: 1px solid #CECECE;
+    border-bottom: 1px solid #CECECE;
+    float: left;
+}
+
+.listright .btn {
+    overflow: hidden;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.listright .btn li {
+    float: left;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid #CECECE;
+    margin-left: 10px;
+    background: #eee;
+}
+
+.listright .btn li:hover {
+    color: #db3962;
+    background: #d8d8d8;
+}
+
+.uls li div {
+    text-align: center;
+}
+
+.uls li div a {
+    display: block;
+    color: #222;
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+.uls li div a:hover {
+    color: #db3962;
+}
+
+.uls li>p {
+    height: 40px;
+    line-height: 40px;
+    background: #f8f8f8;
+}
+
+.uls li>p>span {
+    color: #222;
+    font-size: 12px;
+}
+
+.uls li>p>span:nth-child(2) {
+    text-decoration: line-through;
+}
+
+.uls li>p>span:nth-child(3) {
+    margin-left: 70px;
+}
+
+.uls li>p>span:nth-child(4) {
+    font-size: 14px;
+    color: #db3962;
+}
+
+.btn p {
+    float: left;
+    font-size: 12px;
+    color: #222;
+    height: 20px;
+    line-height: 20px;
+}
+
+.btn p span {
+    margin: 0 2px;
+}

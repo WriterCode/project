@@ -1,0 +1,39 @@
+[{
+    "name": "百分百安心购物保证",
+    "class": [{
+        "img": "img/security1.gif"
+    }]
+}, {
+    "name": "热门推荐",
+    "class": [{
+        "img": "img/FR-8039-0.jpg",
+        "name": "永恒之心"
+    }, {
+        "img": "img/201503061325508854.jpg",
+        "name": "花眸"
+    }, {
+        "img": "img/201502041538168873.jpg",
+        "name": "最爱"
+    }, {
+        "img": "img/201502041513258199.jpg",
+        "name": "True love"
+    }, {
+        "img": "img/201503061132321922.jpg",
+        "name": "徘徊"
+    }]
+}, {
+    "name": "最近浏览记录",
+    "class": [{
+        "img": "img/fr-9610-0.jpg",
+        "name": "绽放"
+    }, {
+        "img": "img/FR-2353-0.jpg",
+        "name": "真爱 女戒"
+    }, {
+        "img": "img/PR-8039-0.jpg",
+        "name": "爱久弥新"
+    }, {
+        "img": "img/201502041648018573.jpg",
+        "name": "久爱"
+    }]
+}]

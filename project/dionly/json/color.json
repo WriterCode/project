@@ -1,0 +1,40 @@
+ [{
+     "name": [
+         { "color": "img/1.png" },
+         { "color": "img/2_1.png" },
+         { "color": "img/3_1.png" },
+         { "color": "img/4.png" },
+         { "color": "img/5.png" },
+         { "color": "img/6.png" },
+         { "color": "img/7.png" }
+     ],
+     "name1": [
+         { "color": "img/1_1.png" },
+         { "color": "img/2_2.png" },
+         { "color": "img/3_3.png" },
+         { "color": "img/4_4.png" },
+         { "color": "img/5_5.png" },
+         { "color": "img/6_6.png" },
+         { "color": "img/7_7.png" }
+     ],
+     "name2": [
+         { "paoG": "img/ex.png" },
+         { "paoG": "img/vg.png" },
+         { "paoG": "img/g.png" },
+         { "paoG": "img/fair.png" }
+     ],
+     "name3": [
+         { "paoG": "img/ex_1.png" },
+         { "paoG": "img/vg_1.png" },
+         { "paoG": "img/g_1.png" },
+         { "paoG": "img/fair_1.png" }
+     ],
+     "name4": [
+         { "jinD": "img/if.png" },
+         { "jinD": "img/vvs1.png" },
+         { "jinD": "img/vvs2.png" },
+         { "jinD": "img/vs1.png" },
+         { "jinD": "img/st1.png" },
+         { "jinD": "img/st2.png" }
+     ]
+ }]

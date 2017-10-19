@@ -1,0 +1,133 @@
+.login {
+    width: 100%;
+    height: 588px;
+    background: #FBEDEC url(../img/login.jpg) no-repeat center center;
+    position: relative;
+}
+
+.login .top {
+    position: absolute;
+    top: 110px;
+    left: 1180px;
+}
+
+.login .top a {
+    font-size: 14px;
+    color: #DB3962;
+}
+
+.login .center {
+    width: 280px;
+    position: absolute;
+    top: 178px;
+    left: 920px;
+}
+
+.login .center p:nth-child(1) input {
+    width: 162px;
+    height: 32px;
+    margin-left: 90px;
+    font-size: 14px;
+    border: none;
+    outline: 0;
+}
+
+.login .center p:nth-child(2) {
+    margin-top: 22px;
+}
+
+.login .center p:nth-child(2) input {
+    width: 162px;
+    height: 32px;
+    margin-left: 90px;
+    font-size: 14px;
+    border: none;
+    outline: 0;
+}
+
+.login .center p:nth-child(3) {
+    margin-top: 25px;
+}
+
+.login .center p:nth-child(3) {
+    font-size: 14px;
+}
+
+.login .center p:nth-child(3) input {
+    vertical-align: top;
+    margin-top: 4px;
+}
+
+.login .center p:nth-child(3) a {
+    color: #222;
+    margin-left: 142px;
+}
+
+.login .center p:nth-child(3) a:hover {
+    color: #DB3962;
+}
+
+.login .center p:nth-child(4) {
+    width: 277px;
+    height: 32px;
+    background: url(../img/loginbutn.png);
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.login .footer {
+    position: absolute;
+    top: 405px;
+    left: 868px;
+    overflow: hidden;
+}
+
+.login .footer div:nth-child(1) {
+    width: 63px;
+    height: 24px;
+    background: url(../img/Connect_logo_7.png);
+    margin-top: 20px;
+    margin-left: 55px;
+    float: left;
+    cursor: pointer;
+}
+
+.login .footer div:nth-child(2) {
+    width: 55px;
+    height: 50px;
+    background: url(../img/wb.gif);
+    margin-top: 5px;
+    margin-left: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+.login .footer div:nth-child(3) {
+    width: 90px;
+    height: 50px;
+    background: url(../img/zfb.gif);
+    margin-top: 5px;
+    margin-left: 25px;
+    float: left;
+    cursor: pointer;
+}
+
+.sucess {
+    position: absolute;
+    top: 33px;
+    left: 83px;
+    font-size: 12px;
+    color: #DB3861;
+}
+
+.login .sucess>p:nth-child(2) {
+    margin-top: 53px;
+}
+
+.sucessTop {
+    display: none;
+}
+
+.sucessBot {
+    display: none;
+}
